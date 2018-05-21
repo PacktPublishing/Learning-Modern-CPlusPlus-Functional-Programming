@@ -5,7 +5,7 @@ Functional programming allows developers to divide programs into smaller, reusab
 
 The course is divided into three modules—the first introduces the fundamentals of functional programming and how it is supported by modern C++. The second module explains how to efficiently implement C++ features such as pure functions and immutable states to build robust applications. The last module describes how to achieve concurrency and apply design patterns to enhance your application’s performance.
 
-By the end of the course, you will be familiar with the functional approach of programming and will be able to use these techniques on a daily basis
+By the end of the course, you will be familiar with the functional approach of programming and will be able to use these techniques on a daily basis.
 
 The course is divided into three modules—the first introduces the fundamentals of functional programming and how it is supported by modern C++. The second module explains how to efficiently implement C++ features such as pure functions and immutable states to build robust applications. The last module describes how to achieve concurrency and apply design patterns to enhance your application’s performance.
 
