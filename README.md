@@ -22,10 +22,10 @@ By the end of the course, you will be familiar with the functional approach of p
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-<br/>This course is for C++ developers comfortable with OOP who are interested in learning how to apply the functional paradigm to create robust and testable apps.
+<br/>* This course is for C++ developers comfortable with OOP who are interested in learning how to apply the functional paradigm to create robust and testable apps.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-<br/>The latest version of GCC, which supports C++11, C++14, and C++17
+<br/>* The latest version of GCC, which supports C++11, C++14, and C++17
 
 ## Related Products
 * [Mastering Multithreading with C++ [Video]](https://www.packtpub.com/application-development/mastering-multithreading-c-video?utm_source=github&utm_medium=repository&utm_campaign=9781788836210)
