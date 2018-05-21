@@ -22,7 +22,8 @@ By the end of the course, you will be familiar with the functional approach of p
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-<UL><LI>This course is for C++ developers comfortable with OOP who are interested in learning how to apply the functional paradigm to create robust and testable apps.</LI></UL>
+<UL><LI>This course is for C++ developers comfortable with OOP who are interested in learning how to apply the functional paradigm to create robust and testable apps</LI></UL>
+
 ### Technical Requirements
 This course has the following software requirements:<br/>
 <UL><LI>The latest version of GCC, which supports C++11, C++14, and C++17</UL></LI>
