@@ -17,7 +17,7 @@ By the end of the course, you will be familiar with the functional approach of p
 <LI>Write modular C++ applications in terms of existing and newly introduced features 
 <LI>Identify code-smells and clean up and refactor legacy C++ applications 
 <LI>Get acquainted with the new C++17 features 
-<LI>Develop GUI applications in C++ </LI></UL></DIV>
+</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
