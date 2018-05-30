@@ -14,10 +14,13 @@ By the end of the course, you will be familiar with the functional approach of p
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Write modular C++ applications in terms of existing and newly introduced features 
-<LI>Identify code-smells and clean up and refactor legacy C++ applications 
-<LI>Get acquainted with the new C++17 features 
-</LI></UL></DIV>
+<LI>Get to know the difference between imperative and functional approaches.
+<LI>See the use of first-class functions and pure functions in a functional style.
+<LI>Discover various techniques to apply immutable state to avoid side effects.
+<LI>Design a recursive algorithm effectively.
+<LI>Create faster programs using lazy evaluation.
+<LI>Learn how to use the C++ Standard Template Library in a functional way to improve code 
+optimization.</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
